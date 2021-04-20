@@ -12,6 +12,8 @@
 | Brain Lesion | BRATS |  | [link] | [link] |
 | Abdominal Organs | CHAOS | CT, MRI | [link](https://www.sciencedirect.com/science/article/pii/S1361841520303145?via%3Dihub) | [link](https://chaos.grand-challenge.org/Download/) |
 | 10 Anatomies | Medical Decathlon | CT, MRI | [link](https://arxiv.org/abs/1902.09063) | [link](http://medicaldecathlon.com/) |
+| Pancreas | Pancreas-CT | CT (n = 80) | [link](https://arxiv.org/pdf/1506.06448.pdf) | [link](https://wiki.cancerimagingarchive.net/display/public/Pancreas-CT) |
+
 
 ## Image Classification
 | Anatomy | Dataset | Modality  | Paper | Download |
