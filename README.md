@@ -19,6 +19,7 @@
 | Anatomy | Dataset | Modality  | Paper | Download |
 | --------| --------|-----------| ----- | ---------|
 | Chest | NIH Chest X-rays | X-Ray (N = 112k, Healthy and 14 disease classes) | [link] | [link](https://www.kaggle.com/nih-chest-xrays/data) |
+| Chest | MIMIC-CXR | X-Ray (N = 220k, Healthy and 13 disease classes (7 in common with NIH)) | [link](https://www.nature.com/articles/s41597-019-0322-0) | [link](https://github.com/MIT-LCP/mimic-cxr) |
 
 ## Image Reconstruction
 | Anatomy | Dataset | Modality  | Paper | Download |
