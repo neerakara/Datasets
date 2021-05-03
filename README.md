@@ -40,9 +40,9 @@
 ## Prostate Segmentation ([More details here](https://liuquande.github.io/SAML/))
 | Dataset | Sub-dataset  | Comments |
 | --------| -------------|----------|
-| NCI | RUNMC | Surface coil |
+| NCI | RUNMC | Surface coil (Some might overlap with PROMISE12 RUNMC) |
 | NCI | BMC | ERC |
-| PROMISE12 | RUNMC | Surface coil (cases 13-25 |
+| PROMISE12 | RUNMC | Surface coil (cases 13-25) (Some might overlap with NCI RUNMC) |
 | PROMISE12 | UCL | Surface coil (cases 26-37 + case 01) |
 | PROMISE12 | BIDMC | ERC  (cases 00-12, except 01) |
 | PROMISE12 | HK | ERC  (cases 38-49) |
