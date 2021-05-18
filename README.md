@@ -31,11 +31,11 @@
 
 
 ## Image Reconstruction
-| Anatomy | Dataset | Modality  | Paper | Download |
-| --------| --------|-----------| ----- | ---------|
-| Brain+Knee (incl. anomalies) | [fastMRI](https://fastmri.org/) | (Single-coil + multi-coil) raw MRI  | [link](https://arxiv.org/abs/1811.08839) | [link](https://fastmri.med.nyu.edu/) |
-| Brain | HCP | MRI | [link](https://www.humanconnectome.org/storage/app/media/documentation/s500/hcps500meg2releasereferencemanual.pdf) | [link](https://www.humanconnectome.org/study/hcp-young-adult/document/500-subjects-data-release) |
-
+| Anatomy | Dataset | Modality  | Paper | Download | Comments |
+| --------| --------|-----------| ----- | ---------| ---------|
+| Brain+Knee (incl. anomalies) | [fastMRI](https://fastmri.org/) | (Single-coil + multi-coil) raw MRI  | [link](https://arxiv.org/abs/1811.08839) | [link](https://fastmri.med.nyu.edu/) | Reconstruction challenge dataset |
+| Brain | HCP | MRI | [link](https://www.humanconnectome.org/storage/app/media/documentation/s500/hcps500meg2releasereferencemanual.pdf) | [link](https://www.humanconnectome.org/study/hcp-young-adult/document/500-subjects-data-release) | |
+| Knee | N/a | raw MRI | [link](http://mridata.org/) || Collection of datasets |
 
 ## Prostate Segmentation ([More details here](https://liuquande.github.io/SAML/))
 | Dataset | Sub-dataset  | Comments |
