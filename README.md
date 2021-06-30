@@ -36,7 +36,7 @@
 | Brain+Knee (incl. anomalies) | [fastMRI](https://fastmri.org/) | (Single-coil + multi-coil) raw MRI  | [link](https://arxiv.org/abs/1811.08839) | [link](https://fastmri.med.nyu.edu/) | Reconstruction challenge dataset |
 | Brain | HCP | MRI | [link](https://www.humanconnectome.org/storage/app/media/documentation/s500/hcps500meg2releasereferencemanual.pdf) | [link](https://www.humanconnectome.org/study/hcp-young-adult/document/500-subjects-data-release) | |
 | Knee | mridata | raw MRI | [link](http://mridata.org/) || Collection of datasets |
-| Liver | "2D MRI liver slices with navigator frames. A test data set for image based 4D MRI reconstruction" | raw 4D MRI | [link](https://arxiv.org/abs/1910.01902) | [link PART 1](http://open-science.ub.ovgu.de/xmlui/handle/684882692/50) [link PART 2](http://open-science.ub.ovgu.de/xmlui/handle/684882692/88)| |
+| Liver | "2D MRI liver slices with navigator frames. A test data set for image based 4D MRI reconstruction" | raw 4D MRI | [link](https://arxiv.org/abs/1910.01902) | [link PART 1](http://open-science.ub.ovgu.de/xmlui/handle/684882692/50) [link PART 2](http://open-science.ub.ovgu.de/xmlui/handle/684882692/88)| Released in two parts |
 
 ## Prostate Segmentation ([More details here](https://liuquande.github.io/SAML/))
 | Dataset | Sub-dataset  | Comments |
