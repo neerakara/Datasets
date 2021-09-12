@@ -34,7 +34,7 @@
 | Anatomy | Dataset | Modality  | Paper | Download | Comments |
 | --------| --------|-----------| ----- | ---------| ---------|
 | Brain+Knee (incl. anomalies) | [fastMRI](https://fastmri.org/) | (Single-coil + multi-coil) raw MRI  | [link](https://arxiv.org/abs/1811.08839) | [link](https://fastmri.med.nyu.edu/) | Reconstruction challenge dataset |
-| Brain+Knee (incl. anomalies) | [fastMRI+](https://arxiv.org/pdf/2109.03812.pdf) |  | | [link](https://github.com/microsoft/fastmri-plus) | Bounding box annotations of fastMRI |
+| Brain+Knee (incl. anomalies) | fastMRI+ |  | [link](https://arxiv.org/pdf/2109.03812.pdf) | [link](https://github.com/microsoft/fastmri-plus) | Bounding box annotations of fastMRI |
 | Brain | [IXI dataset](https://brain-development.org/ixi-dataset/) | Single-coil (T1/T2/PD/MRA/Diffusion)  |  | [link](https://brain-development.org/ixi-dataset/) | 600 MR images from normal, healthy subjects. From 3 different hospitals. |
 | Brain | HCP | MRI | [link](https://www.humanconnectome.org/storage/app/media/documentation/s500/hcps500meg2releasereferencemanual.pdf) | [link](https://www.humanconnectome.org/study/hcp-young-adult/document/500-subjects-data-release) | |
 | Knee | mridata | raw MRI | [link](http://mridata.org/) || Collection of datasets |
