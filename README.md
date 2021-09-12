@@ -34,10 +34,13 @@
 | Anatomy | Dataset | Modality  | Paper | Download | Comments |
 | --------| --------|-----------| ----- | ---------| ---------|
 | Brain+Knee (incl. anomalies) | [fastMRI](https://fastmri.org/) | (Single-coil + multi-coil) raw MRI  | [link](https://arxiv.org/abs/1811.08839) | [link](https://fastmri.med.nyu.edu/) | Reconstruction challenge dataset |
+| Brain+Knee (incl. anomalies) | [fastMRI+](https://arxiv.org/pdf/2109.03812.pdf) |  | [link](https://github.com/microsoft/fastmri-plus) | [link](https://github.com/microsoft/fastmri-plus) | Bounding box annotations of fastMRI |
 | Brain | [IXI dataset](https://brain-development.org/ixi-dataset/) | Single-coil (T1/T2/PD/MRA/Diffusion)  |  | [link](https://brain-development.org/ixi-dataset/) | 600 MR images from normal, healthy subjects. From 3 different hospitals. |
 | Brain | HCP | MRI | [link](https://www.humanconnectome.org/storage/app/media/documentation/s500/hcps500meg2releasereferencemanual.pdf) | [link](https://www.humanconnectome.org/study/hcp-young-adult/document/500-subjects-data-release) | |
 | Knee | mridata | raw MRI | [link](http://mridata.org/) || Collection of datasets |
-| Liver | "2D MRI liver slices with navigator frames. A test data set for image based 4D MRI reconstruction" | raw 4D MRI | [link](https://arxiv.org/abs/1910.01902) | [link PART 1](http://open-science.ub.ovgu.de/xmlui/handle/684882692/50) [link PART 2](http://open-science.ub.ovgu.de/xmlui/handle/684882692/88)| Released in two parts |
+| Liver | "2D MRI liver slices with navigator frames. A test data set for image based 4D MRI reconstruction" | raw 4D MRI | [link](https://arxiv.org/abs/1910.01902)| [link PART 1](http://open-science.ub.ovgu.de/xmlui/handle/684882692/50) [link PART 2](http://open-science.ub.ovgu.de/xmlui/handle/684882692/88)| Released in two parts |
+
+
 
 ## Prostate Segmentation ([More details here](https://liuquande.github.io/SAML/))
 | Dataset | Sub-dataset  | Comments |
